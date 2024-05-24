@@ -16,6 +16,8 @@ def main():
     'red'
 )
     
+    canvas.mainloop()
+    
 
 if __name__ == '__main__':
     main()
