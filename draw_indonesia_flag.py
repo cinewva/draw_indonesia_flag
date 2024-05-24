@@ -1,4 +1,4 @@
-from draw_quilt.graphics import Canvas
+from graphics import Canvas
 
 
 
